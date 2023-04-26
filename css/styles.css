@@ -13816,6 +13816,10 @@ body {
       justify-content: center;
    }
 
+   .timeline-body>p {
+      font-size: 0.95rem;
+   }
+
    .panel-text p {
       font-size: 0.95rem;
       line-height: 1.7;
