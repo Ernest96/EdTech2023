@@ -13815,6 +13815,11 @@ body {
       gap: 25px;
       justify-content: center;
    }
+
+   .panel-text p {
+      font-size: 0.95rem;
+      line-height: 1.7;
+   }
 }
 
 
