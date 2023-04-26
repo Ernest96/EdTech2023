@@ -13796,6 +13796,25 @@ body {
    header.masthead {
       padding-top: 9rem;
    }
+
+   .text-centru {
+      font-size: 60px;
+      line-height: 55px;
+   }
+
+   .text-data {
+      font-size: 25px;
+      line-height: 30px;
+   }
+
+   .counter {
+      font-size: 1rem;
+   }
+
+   .counters-container {
+      gap: 25px;
+      justify-content: center;
+   }
 }
 
 
