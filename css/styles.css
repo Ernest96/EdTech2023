@@ -13823,6 +13823,7 @@ body {
 
    .portfolio-modal .modal-content p {
       font-size: 0.95rem;
+      text-align: left;
    }
 }
 
