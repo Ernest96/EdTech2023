@@ -13820,6 +13820,10 @@ body {
       font-size: 0.95rem;
       line-height: 1.7;
    }
+
+   .portfolio-modal .modal-content p {
+      font-size: 0.95rem;
+   }
 }
 
 
