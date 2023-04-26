@@ -13473,6 +13473,9 @@ body {
 .text-block {
    display: inline-block;
 }
+.intro-text {
+   margin-bottom: 60px;
+}
 
 .timer {
    font: 50px 'Gilroy', sans-serif, bold;
@@ -13680,6 +13683,14 @@ body {
    cursor: pointer;
 }
 
+.sesiune-list {
+   text-align: left;
+   padding-left: 15px;
+   margin-top: -15px;
+}
+
+
+
 @media (max-width: 1200px) {
    .timeline-body>p {
       font-size: 1.05rem;
@@ -13777,12 +13788,14 @@ body {
    .portfolio-modal .modal-content {
       padding-top: 4.4rem;
    }
-}
 
-.sesiune-list {
-   text-align: left;
-   padding-left: 15px;
-   margin-top: -15px;
+   .intro-text {
+      margin-bottom: 45px;
+   }
+
+   header.masthead {
+      padding-top: 9rem;
+   }
 }
 
 
@@ -13817,5 +13830,7 @@ body {
    .speaker-title h6 {
       font-size: 0.75rem;
    }
+
+   
 
 }
